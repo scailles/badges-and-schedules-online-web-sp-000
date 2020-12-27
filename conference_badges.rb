@@ -22,3 +22,6 @@ attendees.each do |name, index|
 end
 room_ass
 end
+
+
+def printer()
