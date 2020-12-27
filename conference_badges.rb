@@ -19,7 +19,6 @@ def assign_rooms(attendees)
 attendees.each do |name, index|
   room_ass << "Hello #{name}! You'll be assigned to room #{room}!"
 end
-end
 room += 1
 room_ass
 end
