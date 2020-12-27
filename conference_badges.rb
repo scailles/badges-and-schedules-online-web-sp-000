@@ -24,4 +24,5 @@ room_ass
 end
 
 
-def printer()
+def printer(attendees)
+  
